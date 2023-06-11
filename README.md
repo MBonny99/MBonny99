@@ -19,9 +19,9 @@ This code is only the python piece of the all mechanism , there is all the mql5 
 
 Technologies Used: I used Python , Mql5 , PineScript and C++ for the signal generation and to send the signal from my MetaTrader account to Telegram . The framework used are PyCharm , Meta Editor , TradingView Editor and Visual Studio Code.
 
-GitHub Repository: [Provide a link to the GitHub repository for the project.]
+GitHub Repository: https://github.com/MBonny99/Mql5_for_TG_Bot
 
-Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
+Contributions: Me , myself and my brain.
 
 
 [Project Name]
