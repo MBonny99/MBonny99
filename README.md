@@ -10,11 +10,14 @@ This ReadMe file serves as an overview of my GitHub account, highlighting my pro
 
 **Projects:**
 
-[Project Name]
+Python script for telegram forex signal
 
-Description: [Briefly describe the project, its purpose, and key features.]
+Description: In this project I create a python script that recive some information from MetaTrader5 and send them to a Telegram Channel, the purpose of this code is to provide some signal for all the trader that don't have enought time to make their chart analysis, the key features are the asynchronous function that wait for each signal to arrive and the communication beetwen metatrader5 and telegram.
 
-Technologies Used: [List the technologies, programming languages, and frameworks utilized in the project.]
+This code is only the python piece of the all mechanism , there is all the mql5 code that generate the signal and the pinescript code where i make all the back-testing.
+
+
+Technologies Used: I used Python , Mql5 , PineScript and C++ for the signal generation and to send the signal from my MetaTrader account to Telegram . The framework used are PyCharm , Meta Editor , TradingView Editor and Visual Studio Code.
 
 GitHub Repository: [Provide a link to the GitHub repository for the project.]
 
