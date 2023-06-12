@@ -25,17 +25,50 @@ GitHub Repository: https://github.com/MBonny99/Mql5_for_TG_Bot
 Contributions: Me , myself and my brain.
 
 
-[Project Name]
 
-Description: [Briefly describe the project, its purpose, and key features.]
 
-Technologies Used: [List the technologies, programming languages, and frameworks utilized in the project.]
+Travel Planner App:
+
+Description: This project is something that i created in order to help all the traveller so that they can explore all the most beautiful thing of the world.
+
+Technologies Used: I used Python integrated with the google maps API , the python script automatically insert some phrase in the google maps api and receive the corrispondent results , after that the script re-organize the information based on the type of data that i need and send them to a csv file and to a Dictionaries.
+I used Kotlin as Front-end programming language , the kotlin script contain the python code and let the user search and make other things with the dictionaries and csv.
 
 GitHub Repository: [Provide a link to the GitHub repository for the project.]
 
 Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
 
 [Add additional projects as necessary, following the same format.]
+
+
+
+
+Trade Tracer site:
+
+Description: This project is something that it's made to help all the trader to trace their trade and performance.
+
+Technologies Used: For this project i used Flutter for the web site and the metatrader api to obtain the various data.
+
+GitHub Repository: [Provide a link to the GitHub repository for the project.]
+
+Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
+
+[Add additional projects as necessary, following the same format.]
+
+
+
+DOM indicator:
+
+Description: This DoM indicator is something that i made in order to understand in a better way the forex market. It permit to access the data of the depth of market and let the user manipulate them.
+
+Technologies Used: I used mql5 as a programming language and the build-in function that it provide.
+
+GitHub Repository: [Provide a link to the GitHub repository for the project.]
+
+Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
+
+[Add additional projects as necessary, following the same format.]
+
 
 
 **Skills:**
