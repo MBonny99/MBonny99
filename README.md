@@ -11,6 +11,8 @@ This ReadMe file serves as an overview of my GitHub account, highlighting my pro
 
 **Projects:**
 
+
+
 Python script for telegram forex signal
 
 Description: In this project I create a python script that receive some information from MetaTrader5 and send them to a Telegram Channel, the purpose of this code is to provide some signal for all the trader that don't have enought time to make their chart analysis, the key features are the asynchronous function that wait for each signal to arrive and the communication beetwen metatrader5 and telegram.
@@ -23,10 +25,14 @@ Technologies Used: I used Python , Mql5 , PineScript and C++ for the signal gene
 GitHub Repository: https://github.com/MBonny99/Mql5_for_TG_Bot
 
 Contributions: Me , myself and my brain.
-.
-.
-.
-.
+
+
+
+
+
+
+
+
 Travel Planner App:
 
 Description: This project is something that i created in order to help all the traveller so that they can explore all the most beautiful thing of the world.
@@ -39,10 +45,19 @@ GitHub Repository: [Provide a link to the GitHub repository for the project.]
 Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
 
 [Add additional projects as necessary, following the same format.]
-.
-.
-.
-.
+
+
+
+
+
+
+
+
+
+
+
+
+
 Trade Tracer site:
 
 Description: This project is something that it's made to help all the trader to trace their trade and performance.
@@ -54,10 +69,15 @@ GitHub Repository: [Provide a link to the GitHub repository for the project.]
 Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
 
 [Add additional projects as necessary, following the same format.]
-.
-.
-.
-.
+
+
+
+
+
+
+
+
+
 DOM indicator:
 
 Description: This DoM indicator is something that i made in order to understand in a better way the forex market. It permit to access the data of the depth of market and let the user manipulate them.
@@ -69,10 +89,14 @@ GitHub Repository: [Provide a link to the GitHub repository for the project.]
 Contributions: [Specify your contributions to the project, highlighting any major functionalities or enhancements you implemented.]
 
 [Add additional projects as necessary, following the same format.]
-.
-.
-.
-.
+
+
+
+
+
+
+
+
 **Skills:**
 
 Below is a list of my core technical skills:
